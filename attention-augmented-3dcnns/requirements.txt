@@ -1,0 +1,11 @@
+SimpleITK
+numpy
+pandas
+torch
+torchvision
+monai
+torchio
+scikit-image
+scipy
+scikit-learn
+tqdm 
